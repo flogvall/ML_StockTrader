@@ -1,0 +1,13 @@
+This project is Erik Flogvalls Capstone Project for the Udacity Machine Learning Nanodegree.
+
+It contians the report for the project "Capstone_Report.pdf" and the propsal written before starting the project, "Capstone_Proposal.pdf". 
+
+The data used for the project is stored in the subfolder "individual_stocks_5yr".
+
+The project is run from the iPython notebook "MLND Capstone Erik Flogvall.ipynb"
+
+The "prepdata.py" Python script file contains function to load data from the csv files and to preprocess it to create additional features.
+
+The "q_trader.py" Python script file contains the QTrader class which is a Q-learner made for trading stocks.
+
+
